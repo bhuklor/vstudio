@@ -1,3 +1,3 @@
-#Some comments go here.
+#Some comments go here...
 print('Hello Word')
 
